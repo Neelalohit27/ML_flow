@@ -3,7 +3,17 @@
 This project demonstrates End-to-End Machine Learning Experiment Tracking using MLflow. It focuses on training multiple machine learning models, logging metrics, parameters, artifacts, and comparing model performance visually through the MLflow UI.
 
 ---
+## 📎 How to Run
 
+1️⃣ Create the directory structure 
+
+2️⃣ Copy all the files into their respective named files
+
+3️⃣ Open MLflow UI using generated public URL
+
+4️⃣ View experiments and screenshots
+
+---
 ## 🚀 Project Objectives
 
 1.Perform data preprocessing
@@ -43,7 +53,9 @@ ngrok (for MLflow UI tunnel)
 The dataset contains features and target used for classification.
 Data preprocessing includes:
     Handling null values
+
     Label Encoding
+    
     Train-Test split.
 
 ---
@@ -62,13 +74,7 @@ Random Forest
 
 #### MLflow logs:
 ✔ Parameters
+
 ✔ Metrics
+
 ✔ Confusion Matrix Plot
-
----
-## 📎 How to Run
-
-1️⃣ Create the directory structure 
-2️⃣ Copy all the files into their respective named files
-3️⃣ Open MLflow UI using generated public URL
-4️⃣ View experiments and screenshots
