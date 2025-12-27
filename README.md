@@ -1,6 +1,7 @@
 # MLflow Experiment Tracking with Google Colab
 
 This project demonstrates End-to-End Machine Learning Experiment Tracking using MLflow. It focuses on training multiple machine learning models, logging metrics, parameters, artifacts, and comparing model performance visually through the MLflow UI.
+
 ---
 
 ## 🚀 Project Objectives
@@ -18,6 +19,7 @@ This project demonstrates End-to-End Machine Learning Experiment Tracking using 
 4.Track experiments in **MLflow UI**
 
 5.Compare and analyze performance between models
+
 ---
 ## 📌 Tech Stack
 
@@ -34,6 +36,7 @@ MLflow
 Google Colab
 
 ngrok (for MLflow UI tunnel)
+
 ---
 ## 📂 Dataset
 
@@ -42,6 +45,7 @@ Data preprocessing includes:
     Handling null values
     Label Encoding
     Train-Test split.
+
 ---
 ## 🛠️ Steps Performed in Code
 ### ✅ 1. Install Dependencies
@@ -60,6 +64,7 @@ Random Forest
 ✔ Parameters
 ✔ Metrics
 ✔ Confusion Matrix Plot
+
 ---
 ## 📎 How to Run
 
